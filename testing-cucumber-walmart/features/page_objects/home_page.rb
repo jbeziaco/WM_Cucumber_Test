@@ -6,8 +6,8 @@ class HomePage
 		end
 		
 		def visitPage
-			#visit 'https://www.walmart.com.br/'
-			visit 'https://www2.walmart.com.br/checkout/content/#chooseAddress'
+			visit 'https://www.walmart.com.br/'
+			#visit 'https://www2.walmart.com.br/checkout/content/#chooseAddress'
 		end
 	
 		def searchFor(content)
